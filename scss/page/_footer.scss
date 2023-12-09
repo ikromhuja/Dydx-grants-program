@@ -1,0 +1,135 @@
+.footer{
+    max-width: 1224px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto; 
+    padding: 80px 0 40px 0;
+    position: relative;
+    
+
+    img{
+        width: 33.959px;
+        height: 35.704px;
+    }
+
+    .rund{
+        position: absolute;
+        width: 58.762px;
+        height: 58.762px;
+        top: 78px;
+        left: -13px;
+    }
+
+    .icons{
+        display: flex;
+        align-items: flex-start;
+        gap: 32px;
+        width: 24px;
+        height: 24px;
+        padding: 2.641px 0px 3.066px 0px;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+    .footer-box{
+
+        display: flex;
+
+
+        
+
+        ul{
+            padding-left: 32px;
+            display: flex;
+            text-align: center;
+                align-items: center;
+            gap: 32px;
+            a{
+                color: #C8C7D8;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                text-decoration: none;  
+                
+                padding-top: 5px;
+                margin: 0 auto;
+                height: 24px;
+                width: 49px;
+
+            }
+        }
+    }
+}
+.footer-2{
+    max-width: 1224px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto; 
+    padding: 80px 0 40px 0;
+    position: relative;
+    margin-top: 160px;
+    
+
+    img{
+        width: 33.959px;
+        height: 35.704px;
+    }
+
+    .rund{
+        position: absolute;
+        width: 58.762px;
+        height: 58.762px;
+        top: 78px;
+        left: -13px;
+    }
+
+    .icons{
+        display: flex;
+        align-items: flex-start;
+        gap: 32px;
+        width: 24px;
+        height: 24px;
+        padding: 2.641px 0px 3.066px 0px;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+    .footer-box{
+
+        display: flex;
+
+
+        
+
+        ul{
+            padding-left: 32px;
+            display: flex;
+            text-align: center;
+                align-items: center;
+            gap: 32px;
+            a{
+                color: #C8C7D8;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                text-decoration: none;  
+                
+                padding-top: 5px;
+                margin: 0 auto;
+                height: 24px;
+                width: 49px;
+
+            }
+        }
+    }
+}

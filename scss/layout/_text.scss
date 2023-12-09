@@ -1,0 +1,129 @@
+
+
+
+
+
+.text-1{
+    display: flex;
+    flex-direction: column;
+    // align-items: flex-start;
+    align-self: stretch;
+    border-radius: 16px;
+    border: 1px solid #fff;
+    padding: 24px;
+    max-width: 808px;
+    height: 168px;
+    margin: 0 auto; 
+    background: #393953;
+    border: none ;
+    margin-bottom: 24px;
+
+
+    h3{
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 450;
+        color: #fff;
+        max-width: 643px;
+        height: 48px;
+        align-self: stretch;
+        padding: 8px 0;
+    }
+    .card-list{
+        display: flex;
+        gap: 15px;
+    }
+    p{
+                display: flex;
+                color: #A59EBA;
+                font-family: Space Mono;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                max-width: 322px;
+    }
+    
+
+    .text-list{
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+
+        h1{
+            color: #fff;
+            text-align: center; 
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+        }
+        .funded{
+            display: flex;
+            padding: 4px 16px;
+            align-items: flex-start;
+            button{
+                    
+            font-family: Circular Std;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 450;
+            color: #fff;
+            border-radius: 100px;
+            border: 1px solid #1C1C28;
+           
+            gap: 16px;
+            width: 85px;
+            height: 32px;
+            background: #1C1C28;
+            text-align: center;
+            }
+            
+        }
+        .open{
+            display: flex;
+            padding: 4px 16px;
+            align-items: flex-start;
+            button{
+                    
+            font-family: Circular Std;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 450;
+            color: #fff;
+            border-radius: 100px;
+            border: 1px solid #6966FF;
+           
+            gap: 16px;
+            width: 72px;
+            height: 32px;
+            background: #6966FF;
+            text-align: center;
+            }
+            
+        }
+        .completed{
+            display: flex;
+            padding: 4px 16px;
+            align-items: flex-start;
+           
+            button{
+                    
+            font-family: Circular Std;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 450;
+            color: #fff;
+            border-radius: 100px;
+            border: 1px solid #16B57F;
+           
+            gap: 16px;
+            width: 136px;
+            height: 32px;
+            background: #16B57F;
+            text-align: center;
+            i{
+                padding-left: 10px;
+            }
+            }
+        }
+    }
+}

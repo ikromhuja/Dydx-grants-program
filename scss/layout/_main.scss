@@ -1,0 +1,67 @@
+
+
+
+
+
+.titel{
+    max-width: 600px;
+    height: 160px;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    position: relative;
+    
+    .svg{
+        position: absolute;
+        top: -15px;
+        right: 20px;
+    }
+    .zigzag{
+        position: absolute;
+        top: 42px;
+        right: 110px;
+    }
+
+    img{
+        position: absolute;
+        top: -40px;
+        right: 140px;
+    }
+    
+
+    h1{
+        font-family: Circular Std;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        height: 48px;
+        padding-bottom: 16px;
+    }
+    p{
+            /* Desktop/Paragraph Large */
+        font-family: Circular Std;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400; 
+        text-align: center;
+        color: #C8C7D8;
+        padding-bottom: 24px;
+    }
+    span{
+        font-family: Circular Std;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        text-align: center;
+        color: #6966FF;
+        text-align: center;
+        
+    }
+
+
+    
+}

@@ -1,0 +1,30 @@
+.prise{
+
+    width: 808px;
+    height: 56px;
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 80px;
+    .prise-1{
+        height: 56px;
+        width: 237.3px;
+        text-align: center;
+        color: #fff;
+        h1{
+            font-family: Space Mono;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+        }
+        p{
+            font-family: Space Mono;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            color: #C8C7D8;
+        }
+    }
+}

@@ -1,0 +1,145 @@
+.process{
+    max-width: 1256px;
+    height: 506px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    position: relative;
+    gap: 32px;
+    color: #fff;
+    margin-bottom: 80px;
+
+
+
+
+    .strelka-1{
+        max-width: 120px;
+        position: absolute;
+        top: 0;
+        left: 340px;
+
+    }
+    .strelka-2{
+        max-width: 120px;
+        position: absolute;
+        bottom: 100px;
+        right: 340px;
+        
+    }
+
+    .apply{
+        
+        background: #393953;
+        display: flex;
+        max-width: 392px;
+        height: 480px;
+        transform: rotate(-3deg);
+        padding: 24px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 32px;
+        border-radius: 16px;
+        h1{
+            width: 35px;
+            text-align: center;
+            font-family: Nanum Pen;
+            font-size: 64px;
+            font-style: normal;
+            font-weight: 400;
+            padding-bottom: 25px;
+        }
+        h2{
+            font-family: Circular Std;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+            align-self: stretch;
+            padding-bottom: 16px;
+        }
+        p{
+            font-family: Circular Std;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 450;
+            
+        }
+    }
+    
+
+    .interview{
+        
+            background: #393953;
+            display: flex;
+            max-width: 392px;
+            height: 480px;
+            transform: rotate(3deg);
+            padding: 24px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 32px;
+            border-radius: 16px;
+        h1{
+            width: 35px;
+            text-align: center;
+            font-family: Nanum Pen;
+            font-size: 64px;
+            font-style: normal;
+            font-weight: 400;
+            padding-bottom: 25px;
+        }
+        h2{
+            font-family: Circular Std;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+            align-self: stretch;
+            padding-bottom: 16px;
+        }
+        p{
+            font-family: Circular Std;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 450;
+            
+        }
+    }
+
+    .grant{
+        
+            background: #393953;
+            display: flex;
+            max-width: 392px;
+            height: 480px;
+            transform: rotate(-2deg);
+            padding: 24px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 32px;
+            border-radius: 16px;
+    h1{
+        width: 35px;
+        text-align: center;
+        font-family: Nanum Pen;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 400;
+        padding-bottom: 25px;
+    }
+    h2{
+        font-family: Circular Std;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        align-self: stretch;
+        padding-bottom: 16px;
+    }
+    p{
+        font-family: Circular Std;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 450;
+        
+    }
+}   
+
+}
